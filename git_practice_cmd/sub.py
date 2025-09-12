@@ -1,1 +1,1 @@
-print("서브입니다")
+print("subsub")
